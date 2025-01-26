@@ -1,5 +1,5 @@
 # doc_assist
-- ADOC ASSIST PP Instructions
+- DOC ASSIST APP INSTRUCTIONS
 1. Redis Setup:
    - Ensure Redis is installed with vector search capabilities (e.g., RedisAI, RediSearch).
    - Start Redis server: redis-server
